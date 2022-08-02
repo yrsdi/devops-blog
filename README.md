@@ -1,7 +1,8 @@
 # DevOps Blog
 
-`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`
+`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 `
 
+```
 $ cd master
 $ git init
 $ git remote add origin https://github.com/yrsdi/devops-blog.git
